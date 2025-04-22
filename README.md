@@ -19,12 +19,7 @@ This Python script generates input files (`karyotype.txt`, `labels.txt`, and `li
      ```bash
      pip install biopython
      ```
-
-3. **Circos**:
-   - Download and install Circos from [http://circos.ca/](http://circos.ca/).
-   - Ensure the `circos` executable is in your system's PATH.
-
-4. **Input Files**:
+3. **Input Files**:
    - Two GenBank files (one for each genome).
    - A BLAST report file in 12-column tabular format.
 
