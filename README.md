@@ -82,8 +82,10 @@ Links file: ./output/links.txt
 ```
 
 ## Visualizing with Circos
+the easy way is to use this website:
+https://yimingyu.shinyapps.io/shinycircos
 
-Once the input files are generated, you can use Circos to create the visualization:
+or
 
 1. Create a Circos configuration file (`circos.conf`) based on your preferences. Refer to the [Circos documentation](http://circos.ca/documentation/) for details.
 2. Run Circos:
